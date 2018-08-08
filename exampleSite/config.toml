@@ -16,10 +16,10 @@ email = ""
 phone = ""
 
 [params]
-  description = "Skeleton of a Hugo theme."
+description = "Skeleton of a Hugo theme."
 
 [[menu.global]]
-  name = "News"
-  weight = 1
-  identifier = "news"
-  url = "/news/"
+name = "News"
+weight = 1
+identifier = "news"
+url = "/news/"
