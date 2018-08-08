@@ -1,3 +1,3 @@
-# hugo-theme-fabula
+# hugo-theme-bones
 
-Clean-shaven Hugo theme for journalism
+Skeleton of a Hugo theme.
