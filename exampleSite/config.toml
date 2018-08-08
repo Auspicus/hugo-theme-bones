@@ -15,9 +15,8 @@ twitter = ""
 email = ""
 phone = ""
 
-#CUSTOM PARAMS
 [params]
-  description = "The world’s fastest framework for building websites"
+  description = "Skeleton of a Hugo theme."
 
 [[menu.global]]
   name = "News"
